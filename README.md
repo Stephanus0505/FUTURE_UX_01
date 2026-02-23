@@ -22,13 +22,7 @@ Figma (for UI design and layout)
 
 Screenshots of all designed pages are included in this repository.
 
- Figma Design Link
 
-View the complete Figma design here:
-## 🔗 Figma Design Link
-
-View the complete Figma design here:
-## 🔗 Figma Design Link
-
-View the complete Figma design here: https://www.figma.com/design/CSbjGDuWbTIta7axeIbUWW/Smile-Dental-Care-Website?node-id=0-1&t=54J0QXlYiY7uuUUx-1
+View the complete Figma design here: 
+https://www.figma.com/design/CSbjGDuWbTIta7axeIbUWW/Smile-Dental-Care-Website?node-id=0-1&t=54J0QXlYiY7uuUUx-1
 
